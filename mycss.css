@@ -1,0 +1,38 @@
+/*
+Filename: mycss.css
+Description: External CSS Style Sheet for Kterings QR Code Tracker
+Author: Ebrahim Aboobaker
+Date: Feb 26, 2025
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+}
+
+/* TEXT */
+h1, h2 {
+    margin: 20px;
+}
+
+p {
+    margin: 20px;
+}
+
+/* Logo Styling */
+.logo {
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Personalized Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: lightgray;
+    margin-top: 20px;
+}
